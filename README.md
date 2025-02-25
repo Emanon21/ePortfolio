@@ -5,14 +5,17 @@ This repository showcases my skills in software development, including Software 
 
 ### Software Design and Development
 [Software Design and Development](Milestones/CS499%203-2%20Milestones%20two.docx)
+
 This document describes the artifact for Software Design and Development, including when it was created and why it was selected for my ePortfolio. It explains how this artifact demonstrates my skills, reflects on the enhancement process, and discusses what I learned and the challenges I faced.
 
 ### Algorithms and Data structures
 [Algorithms and Data structures](Milestones/CS499%204-2%20Milestones%20three.docx)
+
 This document describes the artifact for Algorithms and Data structures, including when it was created and why it was selected for my ePortfolio. It explains how this artifact demonstrates my skills, reflects on the enhancement process, and discusses what I learned and the challenges I faced.
 
 ### Database Management
 [Database Management](Milestones/CS499%205-2%20Milestones%20four.docx)
+
 This document describes the artifact for Database Management, including when it was created and why it was selected for my ePortfolio. It explains how this artifact demonstrates my skills, reflects on the enhancement process, and discusses what I learned and the challenges I faced.
 
 ### Self-Assessment
@@ -26,4 +29,5 @@ I am proud of the progress I have made but I know that there is always more to l
 In my code review, I explained the purpose of the code and provided a breakdown of how each function works.
 
 [Software Design and Development](https://youtu.be/h7_GFofTpFQ)
+
 [Algorithms and Data structures](https://youtu.be/HDiUwK4GRMI)
